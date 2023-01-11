@@ -1,8 +1,8 @@
 shopping lists:-
 
 apple
-oranges
+
 babanas
 carrots
 berries
-potatoes
+
